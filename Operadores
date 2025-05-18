@@ -1,0 +1,17 @@
+#Aritmeticos 
+
+a = 10
+b = 3
+print(a + b)  # 13
+print(a / b)  # 3.333
+print(a % b)  # 1
+
+# Relacionales 
+print(a > b)   # True
+print(a == b)  # False
+
+#Logicos 
+es_mayor = True
+es_menor = False
+print(es_mayor and es_menor)  # False
+
